@@ -33,7 +33,7 @@
 
 - 카메라·사진: 자동 배치용 촬영·불러오기 (사용 시에만 요청)
 - 저장소: 백업·내보내기 파일 생성 (사용 시에만 요청)
-- 인터넷: 공유 기능에 사용 (자동 배치 라이브러리는 앱 내장)
+- 네트워크 통신을 하지 않으므로 인터넷 권한을 요구하지 않습니다.
 
 ## 7. 문의
 
@@ -76,7 +76,7 @@ Not directed at children under 13, and we do not knowingly collect children's da
 
 - Camera/photos: shooting/loading images for auto-placement (requested only when used)
 - Storage: creating backup/export files (requested only when used)
-- Internet: sharing features (the auto-placement library is bundled in-app)
+- The app performs no network communication and requests no internet permission.
 
 ## 7. Contact
 
